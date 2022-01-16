@@ -1,7 +1,9 @@
-# Basic Sample Hardhat Project
+# Basic NFT MarketPlace where one can mint their own NFTs.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is created to run on Ethereum. The project has been build using Hardhat framework. We have used Replit to create a basic front-end for the users to interact with the contract using their metamask wallet.
+Link to Front end: https://nft-starter-project.jkitis.repl.co/
 
+After forking the Repo,
 Try running some of the following tasks:
 
 ```shell
